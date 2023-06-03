@@ -2,7 +2,7 @@
 
 Projekt "Automat do wydawania kawy" ma na celu zaimplementowanie systemu, który umożliwia użytkownikom wybieranie i otrzymywanie kawy w sposób automatyczny. W projekcie zastosowane zostały różne wzorce projektowe, aby zapewnić elastyczność, modularność i łatwość rozbudowy systemu
 
-Głównym celem projketu było zaimplemenotwanie automatu do wydawania kawy przy pomocy wzorców projektowych
+Głównym celem projektu było zaimplementowanie automatu do wydawania kawy przy pomocy wzorców projektowych
 
 ## Wprowadzenie
 
